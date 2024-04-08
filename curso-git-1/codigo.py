@@ -5,4 +5,4 @@ def sum(a,b):
 
 soma = sum(2,4)
 
-print(soma) #commentc
+print(soma) #testando atualização de arquivo
